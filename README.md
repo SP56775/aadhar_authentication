@@ -46,6 +46,3 @@ The analysis includes:
 * MySQL
 * GitHub
 
-## Author
-
-Your Name
